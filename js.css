@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: cornflowerblue;
+}
+.title{
+    padding: 10px;
+    color:orangered;
+}
+.button{
+    margin: auto;
+    border: 1px solid rebeccapurple;
+    border-radius: 5px;
+    display:flex;
+    align-items: center;
+    background-color: plum;
+}
+.container{
+    width: 200px;
+    height: 150px;
+    background-color: pink;
+    text-align:center;
+    margin-left: 42%;
+}
+.resposta, h3{
+    text-align:center;
+    color:rgb(96, 163, 96);
+}
